@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MyPortfolioApp</string>
+    <string name="app_name">My App Portfolio</string>
+    <string name="app_banner_string">My Nanodegree Apps!</string>
+    <string name="project_1_name">Popular Movies</string>
+    <string name="project_2_name">Stock Hawk</string>
+    <string name="project_3_name">Build It Bigger</string>
+    <string name="project_4_name">Make Your App Material</string>
+    <string name="project_5_name">Go Ubiquitous</string>
+    <string name="project_6_name">Capstone</string>
+    <string name="dialog_message">dialog_message</string>
+    <string name="dialog_title">dialog_title</string>
+
 </resources>
