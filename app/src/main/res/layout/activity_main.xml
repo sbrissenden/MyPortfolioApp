@@ -24,6 +24,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:text="@string/project_1_name"
         android:id="@+id/Button1"
         android:layout_below="@+id/TextView"
@@ -31,12 +32,12 @@
         android:layout_alignStart="@+id/TextView"
         android:layout_alignRight="@+id/TextView"
         android:layout_alignEnd="@+id/TextView"
-        android:onClick="sendMessage"
         android:background="#2e3d49"
         android:textColor="#ffffff" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:text="@string/project_2_name"
         android:id="@+id/Button2"
         android:layout_below="@+id/Button1"
@@ -44,13 +45,13 @@
         android:layout_alignStart="@+id/Button1"
         android:layout_alignRight="@+id/Button1"
         android:layout_alignEnd="@+id/Button1"
-        android:onClick="sendMessage"
         android:background="#2e3d49"
         android:textColor="#ffffff" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:text="@string/project_3_name"
         android:id="@+id/Button3"
         android:layout_below="@+id/Button2"
@@ -58,13 +59,13 @@
         android:layout_alignStart="@+id/Button2"
         android:layout_alignRight="@+id/Button2"
         android:layout_alignEnd="@+id/Button2"
-        android:onClick="sendMessage"
         android:background="#2e3d49"
         android:textColor="#ffffff" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:text="@string/project_4_name"
         android:id="@+id/Button4"
         android:layout_below="@+id/Button3"
@@ -72,7 +73,6 @@
         android:layout_alignStart="@+id/Button3"
         android:layout_alignRight="@+id/Button3"
         android:layout_alignEnd="@+id/Button3"
-        android:onClick="sendMessage"
         android:background="#2e3d49"
         android:textColor="#ffffff" />
 
@@ -80,6 +80,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:text="@string/project_5_name"
         android:id="@+id/Button5"
         android:layout_below="@+id/Button4"
@@ -87,21 +88,20 @@
         android:layout_alignStart="@+id/Button4"
         android:layout_alignRight="@+id/Button4"
         android:layout_alignEnd="@+id/Button4"
-        android:onClick="sendMessage"
         android:background="#2e3d49"
         android:textColor="#ffffff" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/project_6_name"
-        android:id="@+id/Button6"
-        android:layout_below="@+id/Button5"
-        android:layout_alignLeft="@+id/Button5"
-        android:layout_alignStart="@+id/Button5"
-        android:layout_alignRight="@+id/Button5"
-        android:layout_alignEnd="@+id/Button5"
-        android:onClick="sendMessage"
+        android:layout_marginTop="10dp"
+        android:text="@string/project_1_name"
+        android:id="@+id/Button1"
+        android:layout_below="@+id/TextView"
+        android:layout_alignLeft="@+id/TextView"
+        android:layout_alignStart="@+id/TextView"
+        android:layout_alignRight="@+id/TextView"
+        android:layout_alignEnd="@+id/TextView"
         android:background="#2e3d49"
         android:textColor="#ffffff" />
 
