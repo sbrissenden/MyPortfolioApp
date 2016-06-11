@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Context context = getApplicationContext();
         Button button = (Button)view;
 
-        String text = "This button will launch my \"" + button.getText().toString() + "\" app!";
+        String text = R.string.toast_prefix + button.getText().toString() + R.string.toast_suffix;
         int duration = Toast.LENGTH_SHORT;
         Toast.makeText(context, text, duration).show();
     }

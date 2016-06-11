@@ -9,5 +9,6 @@
     <string name="project_6_name">Capstone</string>
     <string name="dialog_message">dialog_message</string>
     <string name="dialog_title">dialog_title</string>
-
+    <string name="toast_prefix">This button will launch my \"</string>
+    <string name="toast_suffix">\" app</string>
 </resources>
